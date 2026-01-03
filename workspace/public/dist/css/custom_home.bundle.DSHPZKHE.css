@@ -1,0 +1,79 @@
+/* ../../../../../../../tmp/tmp-45231-iAXrnarsGM1q/workspace/workspace/public/css/custom_home.bundle.css */
+.standard-sidebar-item {
+  border-radius: 8px !important;
+  margin: 4px 12px !important;
+  padding: 8px 12px !important;
+  font-weight: 1000 !important;
+  font-size: 14px !important;
+  letter-spacing: 0.2px;
+  color: #333 !important;
+}
+.standard-sidebar-item.active {
+  background-color: #f0f4ff !important;
+  color: #1a73e8 !important;
+  font-weight: 700 !important;
+}
+.standard-sidebar-item .sidebar-item-icon {
+  margin-right: 10px !important;
+  stroke-width: 2px;
+}
+.standard-sidebar-section .btn-reset.standard-sidebar-label {
+  display: none !important;
+}
+.standard-sidebar-section .sidebar-section-header {
+  display: none !important;
+}
+.sidebar-toggle-placeholder {
+  display: none !important;
+}
+.navbar .search-bar {
+  position: absolute !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  max-width: 400px !important;
+  width: 100% !important;
+}
+.navbar .navbar-collapse {
+  position: relative !important;
+}
+.navbar-brand .app-logo {
+  display: none !important;
+}
+.navbar-brand::after {
+  content: "Limendo mERP";
+  font-weight: 800 !important;
+  font-size: 18px !important;
+  color: #111 !important;
+  letter-spacing: -0.5px;
+  padding-left: 10px;
+  display: inline-block;
+}
+.navbar-brand {
+  display: flex !important;
+  align-items: center !important;
+}
+.layout-main-section {
+  border: none !important;
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+.workspace-sidebar-container + .layout-main-section-wrapper,
+.desk-container .layout-main-section {
+  border: none !important;
+  background-color: transparent !important;
+}
+.page-container,
+.page-content {
+  background-color: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+body,
+.frappe-layout {
+  background-color: #f8f9fa !important;
+}
+.btn.btn-default,
+div#driver-popover-item .driver-popover-footer button.btn-default {
+  display: none;
+}
+/*# sourceMappingURL=custom_home.bundle.DSHPZKHE.css.map */
